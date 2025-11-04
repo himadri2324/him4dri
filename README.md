@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+Himadri+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%9A%80;SOC+Operations+%F0%9F%92%BB;Network+Cloud+Security+%E2%9B%93;Making+the+Future+Reliable+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Himadri+👋;SOC+Analyst+|+Cyber+Security+Enthusiast+🛡️;Cloud+%26+Threat+Detection+Specialist+☁️;Building+Secure+Futures+🌐)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,13 +11,14 @@
 ---
 
 ### 👨‍💻 About Me
+🚀 I’m a Cybersecurity Student and SOC Analyst passionate about Cloud, Threat Detection, and Security Automation.
 
 ```typescript
 const himadri = {
-  role: "SOC",
+  role: "SOC Analyst, Cybersecurity Enthusiast",
   location: "India 🇮🇳",
-  passions: ["Cyber Security, SOC, Cloud Security, SIEM, SOAR, Automation],
-  currentFocus: "Building Projects to enhance my skills",
+  passions: ["SOC Operations", "Cloud Security", "SIEM", "SOAR", "Automation"],
+  currentFocus: "Building hands-on projects to strength my skills",
   funFact: "I sleep better after checking all system logs💻",
 };
 ```
@@ -31,7 +32,7 @@ const himadri = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
@@ -46,18 +47,44 @@ const himadri = {
 **SIEM & SOAR**
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-9945FF?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-F16822?style=for-the-badge&logo=splunk&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-F16822?style=for-the-badge&logo=misp&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK+Stack-000000?style=for-the-badge&logo=elk+stack&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-F7DF1E?style=for-the-badge&logo=thehive&logoColor=black)
 ![Cortex](https://img.shields.io/badge/cortex-20232A?style=for-the-badge&logo=p=cortex&logoColor=61DAFB)
 
-**Databases & Cloud**
+**Cloud**
 
 ![Azure](https://img.shields.io/badge/Azure-4EA94B?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=google-gcp&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-3776AB?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-F16822?style=for-the-badge&logo=splunk&logoColor=black)
+
+**Network & Security Tools**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-F7DF1E?style=for-the-badge&logo=suricata&logoColor=black)
+![Snort](https://img.shields.io/badge/Snort-20232A?style=for-the-badge&logo=snort&logoColor=61DAFB)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-339933?style=for-the-badge&logo=metasploit&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-3776AB?style=for-the-badge&logo=tcpdump&logoColor=white)
+![pfsense](https://img.shields.io/badge/pfsense-F16822?style=for-the-badge&logo=pfsense&logoColor=black)
+
+**Automation & Monitoring**
+
+![Splunk SOAR](https://img.shields.io/badge/Splunk+SOAR-007ACC?style=for-the-badge&logo=splunksoar&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-F7DF1E?style=for-the-badge&logo=graylog&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-20232A?style=for-the-badge&logo=prometheus&logoColor=61DAFB)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-339933?style=for-the-badge&logo=nagios&logoColor=white)
+
+**Virtualization & OS**
+
+![VMware Workstation](https://img.shields.io/badge/VMware+Workstation-007ACC?style=for-the-badge&logo=VMware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-F7DF1E?style=for-the-badge&logo=VirtualBox&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows+Server-20232A?style=for-the-badge&logo=Windows&logoColor=61DAFB)
+![Kali Linux](https://img.shields.io/badge/Kali+Linux-000000?style=for-the-badge&logo=Kali&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-339933?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Active Directory (AD)](https://img.shields.io/badge/AD-3776AB?style=for-the-badge&logo=AD&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-F16822?style=for-the-badge&logo=docker&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
