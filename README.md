@@ -178,10 +178,8 @@ const himadri = {
 ---
 
 <div align="center">
-
 💙 *“Thanks for visiting! Let’s connect and make security smarter together.”*  
 If you liked my projects, consider giving them a star!⭐
-
 </div>
 
 
