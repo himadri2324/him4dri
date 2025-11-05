@@ -140,8 +140,26 @@ const himadri = {
 </div>
 
 ---
+<!-- Projects I'm Working On Side by Side -->
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 ### 📁 Featured Projects
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
+ ---
+ 
 ### 🎓 Certifications & Learning
+
+---
 
 ### 🌐 Reach out to Me
 
