@@ -157,6 +157,10 @@ const himadri = {
  ---
  
 ### 🎓 Certifications & Learning
+- Microsoft **SC-200: Security Operations Analyst** *(Ongoing)*
+- Google **Cybersecurity Professional Certificate**
+- TryHackMe **SOC Level 1**
+- Tines **Automation Specialist (Free Course)**
 
 ---
 
