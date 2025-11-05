@@ -1,3 +1,16 @@
+<!-- 🌟 White Background Portfolio Start -->
+<div style="background-color:#ffffff; color:#000000; padding:20px;">
+
+<!-- Animated Header Section -->
+<div align="center">
+
+  <!-- Profile Image -->
+  <img src="https://github.com/him4dri.png" width="150" height="150" style="border-radius:50%; border:3px solid #00E5FF;" alt="Himadri Singh Profile"/>
+
+  <!-- Animated Light Gradient Wave -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Himadri%20Singh&fontAlignY=40&fontSize=45&color=gradient&customColorList=1,4,6,8,12,14&fontColor=2E2E2E&animation=twinkling&reversal=true"/>
+
+</div>
 <!-- Header with animated typing effect -->
 <div align="center">
   
