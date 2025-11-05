@@ -102,19 +102,14 @@ const himadri = {
 </td>
 <td width="50%" valign="top">
 
-### 🔥 What I'm Working On
+### 🧩 Ongoing Projects & Research
 
-**🌟 Projects**
-> Impementing what learned so far to polish my skills.
+- **🚀 SIEM Automation Initiative** — Architecting intelligent alert enrichment and triage pipelines using *Tines, Wazuh,* and *Python scripting*.
+- **☁️ Cloud Threat Visibility Program** — Enhancing Azure Sentinel with *custom KQL analytics* for cross-cloud attack correlation.
+- **🧠 DFIR Lab Development** — Conducting controlled simulations and forensic analysis using *Volatility, Autopsy,* and *Splunk*.
+- **🛠️ Open Source Blue-Team Contributions** — Sharing reusable *SOC playbooks* and *detection rule frameworks* with the community.
 
-**🔧 Scripting**
-> Creating with bash, Powershell, Python to build different. 
-
-**📚 Open Source**
-> Some secret cards, don't want to spell them out.
-
-**🎯 Innovation**
-> Making Unknown Possible.
+> 🎯 *Every project is focused on building smarter, automated, and evidence-driven defense systems.*
 
 </td>
 </tr>
