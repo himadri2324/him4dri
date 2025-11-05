@@ -164,7 +164,24 @@ const himadri = {
 
 ---
 
-### 🌐 Reach out to Me
+### 📈 GitHub Stats
+
+<div align="center">
+  
+![Himadri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=him4dri&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=him4dri&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🏅 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=him4dri&theme=tokyonight&no-frame=true&margin-w=10)
+
+--- 
+
+### 🤝 Connect with Me
 
 <div align="center">
   
