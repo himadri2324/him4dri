@@ -141,8 +141,6 @@ const himadri = {
 
 ---
 <!-- Featured Projects Section -->
-<div align="center">
-
  ## 📁 Featured Projects
 
 | Project | Description | Tools |
