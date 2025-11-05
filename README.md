@@ -147,6 +147,12 @@ const himadri = {
 <tr>
 <td width="50%" valign="top">
 ### 📁 Featured Projects
+| Project | Description | Tools |
+|----------|--------------|--------|
+| 🔍 **SIEM Detection Lab** | Built ELK-based detection environment, created 10+ custom correlation rules, simulated brute-force & malware traffic. | ELK, Wazuh, Zeek |
+| ☁️ **Azure Cloud Threat Monitoring** | Deployed Sentinel for cloud logs, integrated Defender alerts, created custom KQL queries. | Azure Sentinel, KQL |
+| 🧠 **DFIR Investigation Case** | Performed Windows memory analysis using Volatility to trace malicious persistence. | Volatility, Autopsy |
+| 🔧 **SOAR Automation** | Automated alert enrichment using Tines API workflows. | Tines, Python |
 
 
 </td>
