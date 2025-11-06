@@ -145,7 +145,7 @@ const himadri = {
 
 | Project | Description | Tools/Technologies |
 |----------|--------------|--------|
-| 🔍 [**Brutesight**](https://github.com/yourusername/SIEM-Detection-Lab) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
+| 🔍 [**Brutesight**](https://github.com/himadri2324/brutesight-soc) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
 | ☁️ [**Azure Cloud Threat Monitoring**](https://github.com/yourusername/Azure-Threat-Monitoring) | Deployed Microsoft Sentinel for cloud log ingestion, integrated Defender for Cloud alerts, and created custom KQL-based detections. | Azure Sentinel, KQL |
 | 🧠 [**DFIR Investigation Case**](https://github.com/yourusername/DFIR-Investigation-Case) | Performed Windows memory and disk analysis using Volatility and Autopsy to trace persistence and exfiltration artifacts. | Volatility, Autopsy |
 | 🔧 [**SOAR Automation**](https://github.com/yourusername/SOAR-Automation) | Automated alert enrichment workflows with Tines API to triage IOC data from VirusTotal and AbuseIPDB automatically. | Tines, Python |
