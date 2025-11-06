@@ -130,7 +130,7 @@ const himadri = {
 
 ### 🧩 Ongoing Projects & Research
 
-- **🚀 SIEM Automation Initiative** — Architecting intelligent alert enrichment and triage pipelines using *Tines, Wazuh,* and *Python scripting*.
+- **🚀 Currectly working on the SIEM projects and focusing on create, monitor, detect, respond and secure.
 > 🎯 *Every project is focused on building smarter, automated, and evidence-driven defense systems.*
 
 </td>
