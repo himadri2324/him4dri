@@ -161,6 +161,14 @@ const himadri = {
 
 ---
 
+### Platforms & Profiles
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/<your-username>)  
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Rank%20X-6f42c1?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.hackthebox.com/home/users/profile/<your-profile-id>)  
+[![HackerOne](https://img.shields.io/badge/HackerOne-Bugbounty%20Hunter-ff4757?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/<your-username>)  
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Researcher-00b894?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/<your-username>)
+
+---
+
 ### 🤝 Connect with Me
 
 <div align="center">
