@@ -163,6 +163,7 @@ const himadri = {
 
 ### Platforms & Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/LittleSun4lower)  
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Rank%20X-6f42c1?style=for-the-badge)](https://academy.hackthebox.com/dashboard)  
 
 ---
 
