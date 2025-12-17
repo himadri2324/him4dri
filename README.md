@@ -186,9 +186,3 @@ const himadri = {
 💙 “Thanks for visiting! Let’s connect and make security smarter together.” 
 If you liked my projects, consider giving them a star!⭐
 </div>
-
-![Sunflower animation](https://raw.githubusercontent.com/himadri2324/himadri2324/output/sunflower.svg)
-
-
-
-
