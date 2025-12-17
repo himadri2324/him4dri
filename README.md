@@ -146,6 +146,8 @@ const himadri = {
 | Project | Description | Tools/Technologies |
 |----------|--------------|--------|
 | 🔍 [**Brutesight**](https://github.com/himadri2324/brutesight-soc) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
+| 🔍 [**Securex**](https://github.com/himadri2324/securex-SOC) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
+
 
   </table>
 
