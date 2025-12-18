@@ -157,7 +157,6 @@ const himadri = {
  
 ### 🎓 Certifications & Learning
 - Cisco **Introduction to Cybersecurity**
-  <img src="[Introduction_to_Cybersecurity_certificate_himadrisingh061-gmail-com_5114345e-0feb-4237-b4e8-5343a910693f.pdf](https://github.com/user-attachments/files/24234680/Introduction_to_Cybersecurity_certificate_himadrisingh061-gmail-com_5114345e-0feb-4237-b4e8-5343a910693f.pdf)" width="500"/>
 - Google **Cybersecurity Professional Certificate**
 - TryHackMe **SOC Level 1**
 - Tines **Automation Specialist (Free Course)**
