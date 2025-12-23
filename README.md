@@ -115,34 +115,33 @@ const himadri = {
 
 ### 🔥 What I'm Working On
 
-🚀 **SIEM Automation Project**  
-*Designing advanced detection rules and automating alert triage pipelines using Tines and Wazuh.*  
-💡 *Goal:* Reduce analyst response time and improve alert accuracy.
+🚀 **SOC & Cloud Security Projects**  
+*Actively working on SOC-focused and cloud security projects to build strong detection and monitoring capabilities.*  
+🎯 *Focus:* Developing practical SOC skills with a strong cloud security foundation.
 
 ---
 
-☁️ **Azure Security Monitoring**  
-*Building end-to-end visibility with Microsoft Sentinel and Defender for Cloud.*  
-📊 *Focus:* Creating custom KQL queries for proactive threat detection.
+☁️ **Hands-on Security Labs & Continuous Practice**  
+*Regularly performing small, hands-on labs to strengthen core cybersecurity fundamentals.*  
+📊 *Focus:* Improving detection and response skills through practical security labs.
 
 ---
 
-🧠 **DFIR Investigation Lab**  
-*Simulating and investigating cyber incidents using Volatility, Autopsy, and Splunk.*  
-🔍 *Objective:* Strengthen digital forensic and incident response workflows.
+🔐 **Core Networking & Security Foundations**  
+*Building and strengthening core networking knowledge essential for effective security operations.*  
+🔍 *Objective:* Develop core networking expertise for firewall, proxy, and routing security.
 
 ---
 
-🛠️ **Open Source SOC Playbooks**  
-*Contributing to blue-team automation repositories and sharing threat detection use-cases.*  
-🌐 *Impact:* Empowering the community with reusable detection and response logic.
+🧠 **Expanding Security Knowledge Across Domains**  
+*Continuously exploring additional security domains to become a well-rounded security professional.*  
+🌐 *Impact:* Expanding cybersecurity expertise across governance, risk, and red teaming.
 
 ---
 
-### 🧩 Ongoing Projects & Research
+### 🧩 Learning Philosophy
 
-- 🚀 Currently working on SIEM projects, focusing on creating, monitoring, detecting, responding to, and securing systems.
-> 🎯 *Every project is focused on building smarter, automated, and evidence-driven defense systems.*
+> 🎯 *Focused on building strong fundamentals in SOC and cloud security first, while continuously expanding knowledge across networking, governance, and offensive security domains.*
 
 </td>
 </tr>
