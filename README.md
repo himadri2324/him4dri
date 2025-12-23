@@ -117,31 +117,35 @@ const himadri = {
 
 🚀 **SOC & Cloud Security Projects**  
 *Actively working on SOC-focused and cloud security projects to build strong detection and monitoring capabilities.*  
+
 🎯 *Focus:* Developing practical SOC skills with a strong cloud security foundation.
 
 ---
 
 ☁️ **Hands-on Security Labs & Continuous Practice**  
 *Regularly performing small, hands-on labs to strengthen core cybersecurity fundamentals.*  
+
 📊 *Focus:* Improving detection and response skills through practical security labs.
 
 ---
 
 🔐 **Core Networking & Security Foundations**  
 *Building and strengthening core networking knowledge essential for effective security operations.*  
+
 🔍 *Objective:* Develop core networking expertise for firewall, proxy, and routing security.
 
 ---
 
 🧠 **Expanding Security Knowledge Across Domains**  
 *Continuously exploring additional security domains to become a well-rounded security professional.*  
+
 🌐 *Impact:* Expanding cybersecurity expertise across governance, risk, and red teaming.
 
 ---
 
 ### 🧩 Learning Philosophy
 
-> 🎯 *Focused on building strong fundamentals in SOC and cloud security first, while continuously expanding knowledge across networking, governance, and offensive security domains.*
+🎯 *Focused on building strong fundamentals in SOC and cloud security first, while continuously expanding knowledge across networking, governance, and offensive security domains.*
 
 </td>
 </tr>
