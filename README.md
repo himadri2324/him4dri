@@ -22,18 +22,6 @@ const himadri = {
   funFact: "I sleep better after checking all system logs💻",
 };
 ```
----
-
-### 🧑‍💼 Professional Experience
-
-**SOC Analyst Intern – Gardiyan System Security Technologies (Remote)**
-- Performed SIEM alert triage and log analysis
-- Supported SOAR-based response workflows
-- Worked with cloud security monitoring tools
-
-**IT Operations Intern – Honda Cars India Ltd**
-- Configured and optimized FortiGate firewalls
-- Improved network security posture
 
 ---
 
