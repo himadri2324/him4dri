@@ -148,12 +148,9 @@ const himadri = {
 | Project | Description | Tools/Technologies |
 |----------|--------------|--------|
 | [**Securex**](https://github.com/himadri2324/securex-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-| [**CloudSOC**](https://github.com/himadri2324/Cloud-SOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure Logic Apps-based SOAR playbooks|
-| [**SIEMSOAR**](https://github.com/himadri2324/SIEMSOAR) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-| [**Authlog**](https://github.com/himadri2324/Authlog) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-
-
-
+| [**CloudSOC**](https://github.com/himadri2324/cloud-SOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure Logic Apps-based SOAR playbooks|
+| [**SIEMSOC**](https://github.com/himadri2324/SIEMSOC) | Real-time SOC implementation using SIEM to detect, analyze, and investigate security incidents. | ElasticSIEM, Elasticsearch, Kibana, Winlogbeat, Windows Event Logs, Ubuntu 22.04 LTS VM |
+| [**Authlog**](https://github.com/himadri2324/Authlog) | Windows authentication log analysis using Elastic SIEM for detecting brute-force attacks. | Windows 10, Winlogbeat, Elasticsearh, Kibana, VMware Workstation, Ubuntu 22.04 LTS, Elastic Security (SIEM)|
   </table>
 
 </div>
