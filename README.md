@@ -148,9 +148,9 @@ const himadri = {
 | Project | Description | Tools/Technologies |
 |----------|--------------|--------|
 | [**Securex**](https://github.com/himadri2324/securex-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-| [**CloudSOC**](https://github.com/himadri2324/cloud-SOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure Logic Apps-based SOAR playbooks|
-| [**SIEMSOAR**](https://github.com/himadri2324/siemsoar-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-| [**Authlog**](https://github.com/himadri2324/authlog-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
+| [**CloudSOC**](https://github.com/himadri2324/Cloud-SOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure Logic Apps-based SOAR playbooks|
+| [**SIEMSOAR**](https://github.com/himadri2324/SIEMSOAR) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
+| [**Authlog**](https://github.com/himadri2324/Authlog) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
 
 
 
