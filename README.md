@@ -167,6 +167,7 @@ const himadri = {
 
 ### Platforms & Profiles
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/LittleSun4lower)  
+[![Bluesky](https://img.shields.io/badge/Bluesky-@sun4lower-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/sun4lower.bsky.social)
 
 ---
 
